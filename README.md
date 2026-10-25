@@ -23,5 +23,5 @@ A rede foi dividida em três setores principais:
 * **Conectividade Exterior:** A configuração do caminho de *backup* da saída para a internet nos Serviços Operacionais apresentou limitações no encaminhamento do tráfego de retorno, sendo um ponto identificado para otimização em futuras validações de resiliência.
 
 ## Conteúdo do Repositório
-* [`topology/`](topology/) - Imagem com a topologia lógica da rede e respetivos ficheiros de simulação.
+* [`topologia/`](topologia/) - Imagem com a topologia lógica da rede e respetivos ficheiros de simulação.
 * [`excel/`](excel/) - Tabela de endereçamento IP detalhada (com o planeamento completo de sub-redes).
