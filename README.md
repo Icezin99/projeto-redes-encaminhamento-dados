@@ -5,7 +5,7 @@ Projeto prático desenvolvido no âmbito da cadeira de Encaminhamento de Dados d
 ## Visão Geral da Rede
 O projeto consistiu em desenhar e configurar a infraestrutura de rede para um resort de grandes dimensões. A arquitetura seguiu o modelo **Hub-and-Spoke**, tendo o Edifício Administrativo Central (EAC) como o núcleo (*core*) responsável por agrupar o tráfego, resumir rotas e aplicar as políticas principais.
 
-![Topologia da Rede](topology/topologia-ED.png)
+![Topologia da Rede](topologia/topologia-ED.png)
 
 A rede foi dividida em três setores principais:
 * **Setor Oeste:** Área Desportiva e Lazer (ADL) a correr OSPF e Serviços Operacionais (SO) com EIGRP.
