@@ -6,7 +6,7 @@ Practical project developed within the scope of the Data Forwarding course of th
 
 The project consisted of designing and configuring a network infrastructure for a large-scale resort. The architecture followed a Hub-and-Spoke model, using the Edifício Administrativo Central (EAC) as the core responsible for aggregating traffic, summarizing routes, and applying core policies.
 
-![Network Topology](topologia/topologia-ED.png)
+![Network Topology](topology/topology-ED.png)
 
 The network was divided into three main sectors:
 - **Setor Oeste:** Área Desportiva e Lazer (ADL) running OSPF, and Serviços Operacionais (SO) running EIGRP.
@@ -27,5 +27,5 @@ The network was divided into three main sectors:
 
 ## Repository Contents
 
-- [`topologia/`](topologia/) - Image containing the logical network topology and respective simulation files.
+- [`topologia/`](topology/) - Image containing the logical network topology and respective simulation files.
 - [`excel/`](excel/) - Detailed IP addressing table (with complete subnet planning).
