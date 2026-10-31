@@ -27,5 +27,5 @@ The network was divided into three main sectors:
 
 ## Repository Contents
 
-- [`topologia/`](topology/) - Image containing the logical network topology and respective simulation files.
+- [`topology/`](topology/) - Image containing the logical network topology and respective simulation files.
 - [`excel/`](excel/) - Detailed IP addressing table (with complete subnet planning).
